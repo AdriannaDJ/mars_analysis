@@ -6,6 +6,7 @@ This activity uses SQLAlchemy and Flask to analysis weather conditions before le
 
 ### Analysis:
 (provided by school to verifying in correct data collection methods)
+
 On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest. But it is always very cold there in human terms!
 
 Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
