@@ -5,13 +5,11 @@ Challenge 11
 This activity uses SQLAlchemy and Flask to analysis weather conditions before leaving for a trip to Honolulu, Hawaii.
 
 ### Analysis:
-(provided by school to verifying in correct data collection methods)
+The lowest average temperature on Mars occurs in month 3 (-83.31 C) with month 4 (-82.74 C) coming next. THe highest average temperature on Mars occurs in month 8 (-68.38 C) then month 9 (-69.17 C). 
 
-On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest. But it is always very cold there in human terms!
+The atmospheric pressure ranges from 745.05 (month 6) to 913.31 (month 9).
 
-Atmospheric pressure is, on average, lowest in the sixth month and highest in the ninth.
-
-The distance from peak to peak is roughly 1425-750, or 675 days. A year on Mars appears to be about 675 days from the plot. Internet search confirms that a Mars year is equivalent to 687 earth days.
+Based on the peaks of our plotted graph, a year on Mars appears to be around 675 days long.
 
 ## Resources
 - https://www.geeksforgeeks.org/how-to-convert-python-dictionary-to-json/ : exporting data into json file
