@@ -2,7 +2,7 @@
 Challenge 11
 
 ## Challenge Outputs
-This activity uses SQLAlchemy and Flask to analysis weather conditions before leaving for a trip to Honolulu, Hawaii.
+This activity involves web scraping data about Mars temperatures, atomspheric pressure, and dates. Skills utilized includes BeautifulSoup, Pandas, and plotting.
 
 ### Analysis:
 The lowest average temperature on Mars occurs in month 3 (-83.31 C) with month 4 (-82.74 C) coming next. THe highest average temperature on Mars occurs in month 8 (-68.38 C) then month 9 (-69.17 C). 
