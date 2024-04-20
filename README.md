@@ -13,5 +13,5 @@ Based on the peaks of our plotted graph, a year on Mars appears to be around 675
 
 ## Resources
 - https://www.geeksforgeeks.org/how-to-convert-python-dictionary-to-json/ : exporting data into json file
-- Referenced lesson acitivies from Module 11 Data Collection.
+- Referenced lesson activies from Module 11 Data Collection.
 - Xpert Learning Assistant was used to assist in debugging errors in coding.
